@@ -54,7 +54,9 @@ address:
   - line: Morgantown, West Virginia 26506
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: '<ul><a href="https://cabbi.bio">Center for Advanced Bioenergy & Bioproducts</a><br>
+              <a href="http://www.as.wvu.edu/fernow/index.html">Fernow Experimental Forest</a>
+          </ul>'
 
 # Build settings
 markdown: kramdown
