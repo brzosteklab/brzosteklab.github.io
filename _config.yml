@@ -40,15 +40,15 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://twitter.com/brzosteklab?lang=en
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/brzosteklab
+  - title: researchgate
+    url: https://www.researchgate.net/lab/Edward-R-Brzostek-Lab
+  - title: linkedin
+    url: https://www.linkedin.com/in/edward-brzostek-09a19445/
+  - title:
+    url:
 
 # Postal address (add as many lines as necessary)
 address:
