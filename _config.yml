@@ -35,7 +35,7 @@ footer:
   copyright: The Brzostek Lab
   location: West Virginia University
   social: Around the Web
-  credits: Collaborators
+  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -54,9 +54,7 @@ address:
   - line: Morgantown, West Virginia 26506
 
 # Credits content
-credits: '<ul><a href="https://cabbi.bio">Center for Advanced Bioenergy & Bioproducts</a><br>
-              <a href="http://www.as.wvu.edu/fernow/index.html">Fernow Experimental Forest</a>
-          </ul>'
+credits: 'We are affiliated with <a href="https://cabbi.bio"> The Center for Advanced Bioenergy & Bioproducts</a> and <a href="http://www.as.wvu.edu/fernow/index.html">The Fernow Experimental Forest</a>.'
 
 # Build settings
 markdown: kramdown
