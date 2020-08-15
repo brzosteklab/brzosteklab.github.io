@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-01-03
+date: 2014-01-04
 img: pmi.png
 alt: plantmicrobe
 project-date: June 2015
