@@ -7,6 +7,86 @@ keywords: "ecology, ecosystems, modeling, soil, biogeochemistry"
 skills: "Ecology - Biogeochemistry - Modeling"
 meta_author: Walter Chris
 
+# Team names, titles and social links
+people:
+- name: Eddie Brzostek
+  pic: 1
+  position: Principal Investigator
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/edward-brzostek-09a19445/
+    - title:
+      url: #
+    - title:
+      url: #
+
+- name: Joe Carrara
+  pic: 2
+  position: PhD Student
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Stephanie Juice
+  pic: 3
+  position: Postdoctoral Researcher
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Emel Kangi
+  pic: 4
+  position: Masters Student
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Nanette Razcka
+  pic: 5
+  position: PhD Student
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Joanna Ridgeway
+  pic: 6
+  position: PhD Student
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Chris Walter
+  pic: 7
+  position: Postdoctoral Researcher
+  social:
+    - title: website
+      url: https://chriswalter.info
+    - title: twitter
+      url: twitter.com/waltscience
+    - title: linkedin
+      url: www.linkedin.com/in/waltscience
+
+
 # Google webmaster tools
 google_verify:
 
